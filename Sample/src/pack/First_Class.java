@@ -9,6 +9,8 @@ public class First_Class
 		int i=10;
 		
 		System.out.println(i);
+		
+		System.out.println("Hello world");
 	}
 	
 	public static void m2()
